@@ -1,0 +1,15 @@
+{
+  "name": "lumineminer",
+  "version": "1.0.0",
+  "description": "MEfficiently makes use of the Lumine bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sowd",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
